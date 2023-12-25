@@ -1,1 +1,2 @@
 # todolist
+# to add responsiveness
